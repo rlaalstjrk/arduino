@@ -1,5 +1,5 @@
 /*
-    Library for gas detection
+    gas.h - Library for gas detection
 */
 
 #include "gas.h"
